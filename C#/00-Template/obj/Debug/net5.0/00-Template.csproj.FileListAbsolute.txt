@@ -1,0 +1,16 @@
+C:\Users\yasir\Yelf\Dev\C#\00-Template\bin\Debug\net5.0\00-Template.exe
+C:\Users\yasir\Yelf\Dev\C#\00-Template\bin\Debug\net5.0\00-Template.deps.json
+C:\Users\yasir\Yelf\Dev\C#\00-Template\bin\Debug\net5.0\00-Template.runtimeconfig.json
+C:\Users\yasir\Yelf\Dev\C#\00-Template\bin\Debug\net5.0\00-Template.runtimeconfig.dev.json
+C:\Users\yasir\Yelf\Dev\C#\00-Template\bin\Debug\net5.0\00-Template.dll
+C:\Users\yasir\Yelf\Dev\C#\00-Template\bin\Debug\net5.0\ref\00-Template.dll
+C:\Users\yasir\Yelf\Dev\C#\00-Template\bin\Debug\net5.0\00-Template.pdb
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\00-Template.csproj.AssemblyReference.cache
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\00-Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\00-Template.AssemblyInfoInputs.cache
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\00-Template.AssemblyInfo.cs
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\00-Template.csproj.CoreCompileInputs.cache
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\00-Template.dll
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\ref\00-Template.dll
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\00-Template.pdb
+C:\Users\yasir\Yelf\Dev\C#\00-Template\obj\Debug\net5.0\00-Template.genruntimeconfig.cache
