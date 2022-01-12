@@ -1,0 +1,16 @@
+C:\Users\yasir\Yelf\Dev\C#\02-Input\bin\Debug\net5.0\02-Input.exe
+C:\Users\yasir\Yelf\Dev\C#\02-Input\bin\Debug\net5.0\02-Input.deps.json
+C:\Users\yasir\Yelf\Dev\C#\02-Input\bin\Debug\net5.0\02-Input.runtimeconfig.json
+C:\Users\yasir\Yelf\Dev\C#\02-Input\bin\Debug\net5.0\02-Input.runtimeconfig.dev.json
+C:\Users\yasir\Yelf\Dev\C#\02-Input\bin\Debug\net5.0\02-Input.dll
+C:\Users\yasir\Yelf\Dev\C#\02-Input\bin\Debug\net5.0\ref\02-Input.dll
+C:\Users\yasir\Yelf\Dev\C#\02-Input\bin\Debug\net5.0\02-Input.pdb
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\02-Input.csproj.AssemblyReference.cache
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\02-Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\02-Input.AssemblyInfoInputs.cache
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\02-Input.AssemblyInfo.cs
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\02-Input.csproj.CoreCompileInputs.cache
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\02-Input.dll
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\ref\02-Input.dll
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\02-Input.pdb
+C:\Users\yasir\Yelf\Dev\C#\02-Input\obj\Debug\net5.0\02-Input.genruntimeconfig.cache
