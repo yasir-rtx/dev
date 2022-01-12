@@ -1,0 +1,16 @@
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\bin\Debug\net5.0\01-Variabel.exe
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\bin\Debug\net5.0\01-Variabel.deps.json
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\bin\Debug\net5.0\01-Variabel.runtimeconfig.json
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\bin\Debug\net5.0\01-Variabel.runtimeconfig.dev.json
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\bin\Debug\net5.0\01-Variabel.dll
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\bin\Debug\net5.0\ref\01-Variabel.dll
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\bin\Debug\net5.0\01-Variabel.pdb
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\01-Variabel.csproj.AssemblyReference.cache
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\01-Variabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\01-Variabel.AssemblyInfoInputs.cache
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\01-Variabel.AssemblyInfo.cs
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\01-Variabel.csproj.CoreCompileInputs.cache
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\01-Variabel.dll
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\ref\01-Variabel.dll
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\01-Variabel.pdb
+C:\Users\yasir\Yelf\Dev\C#\01-Variabel\obj\Debug\net5.0\01-Variabel.genruntimeconfig.cache
