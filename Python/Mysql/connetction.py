@@ -12,15 +12,9 @@ db = mysql.connector.connect(
 # Creating 'cursor' as query executioner
 cursor = db.cursor()
 
-# SELECT DATA
-# fetchall() untuk ambil semua data;
-# fetachmany(10) untuk ambil 10 data;
-# fetchone() untuk mengambil satu data pertama saja.
-sql = "SELECT * FROM members"
-cursor.execute(sql)
-
-# Variabel untuk menampung data dari sql
-results = cursor.fetchall()
-
-for data in results :
-    print(data)
+# UPDATE DATA 
+sql = "UPDATE members SET name=%s, kode=%s, level=%s WHERE id=%s"
+val = ("Ian", "Arjuna", "First", 7)
+cursor.execute(sql, val)
+db.commit()
+print("{} data diubah".format(cursor.rowcount))
