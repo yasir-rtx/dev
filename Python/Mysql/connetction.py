@@ -5,13 +5,20 @@ import mysql.connector
 db = mysql.connector.connect(
     host = "localhost",
     user = "root",
-    password = ""
+    password = "",
+    database = "nizari"
 )
 
 # Creating 'cursor' as query executioner
 cursor = db.cursor()
 
-# Creating database
-cursor.execute("CREATE DATABASE nizari")
+sql = """CREATE TABLE members (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    kode VARCHAR(255),
+    name VARCHAR(255),
+    level VARCHAR(255)
+)
+"""
 
-print("Database berhasil dibuat")
+cursor.execute(sql)
+print ("Table created")
