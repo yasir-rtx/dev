@@ -12,13 +12,8 @@ db = mysql.connector.connect(
 # Creating 'cursor' as query executioner
 cursor = db.cursor()
 
-sql = """CREATE TABLE members (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    kode VARCHAR(255),
-    name VARCHAR(255),
-    level VARCHAR(255)
-)
-"""
-
-cursor.execute(sql)
-print ("Table created")
+sql = "INSERT INTO members (kode, name, level) VALUES (%s, %s, %s)"
+val = ("Ghost", "Yelf", "Spesial")
+cursor.execute(sql, val)
+db.commit()
+print ("{} data ditambahkan".format(cursor.rowcount))
