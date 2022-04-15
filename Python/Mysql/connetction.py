@@ -12,16 +12,15 @@ db = mysql.connector.connect(
 # Creating 'cursor' as query executioner
 cursor = db.cursor()
 
-# %s == placeholder
-sql = "INSERT INTO members (kode, name, level) VALUES (%s, %s, %s)"
-values = [
-    ("Smirking Death", "Zacht", "Master"),
-    ("Oni", "Rvier", "Second"),
-    ("Dove", "Nicholas", "Second"),
-    ("Xenomorph", "Aeins", "Second")
-]
+# SELECT DATA
+# fetchall() untuk ambil semua data;
+# fetachmany(10) untuk ambil 10 data;
+# fetchone() untuk mengambil satu data pertama saja.
+sql = "SELECT * FROM members"
+cursor.execute(sql)
 
-for val in values:
-    cursor.execute(sql, val)
-    db.commit() # SAVE DATA
-print ("{} data ditambahkan".format(len(values)))
+# Variabel untuk menampung data dari sql
+results = cursor.fetchall()
+
+for data in results :
+    print(data)
