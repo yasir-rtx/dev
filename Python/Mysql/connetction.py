@@ -8,6 +8,10 @@ db = mysql.connector.connect(
     password = ""
 )
 
-# check connection status
-if db.is_connected():
-    print("Connection Sucseed")
+# Creating 'cursor' as query executioner
+cursor = db.cursor()
+
+# Creating database
+cursor.execute("CREATE DATABASE nizari")
+
+print("Database berhasil dibuat")
